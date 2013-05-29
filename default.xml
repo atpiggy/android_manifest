@@ -357,6 +357,12 @@
   <project path="vendor/lge" name="android_vendor_lge" remote="rascarlo" revision="jb-ras-mr1.1" />
   <project path="vendor/samsung" name="android_vendor_samsung" remote="rascarlo" revision="jb-ras-mr1.1" />
   <project path="vendor/rascarlo" name="android_vendor_rascarlo" remote="rascarlo" revision="jb-ras-mr1.1" />
+  <project path="vendor/akm" name="vendor_akm" remote="diclusial" revision="jb-4.1.2" />
+  <project path="vendor/broadcom" name="vendor_broadcom" remote="diclusial" revision="jb-4.1.2" />
+  <project path="vendor/imgtec" name="vendor_imgtec" remote="diclusial" revision="jb-4.1.2" />
+  <project path="vendor/nxp" name="vendor_nxp" remote="diclusial" revision="jb-4.1.2" />
+  <project path="vendor/samsung" name="vendor_samsung" remote="diclusial" revision="jb-4.1.2" />
+  <project path="vendor/widevine" name="vendor_widevine" remote="diclusial" revision="jb-4.1.2" />
 
   <project path="external/koush/Superuser" name="Superuser" remote="koush" revision="master" />
   <project path="external/koush/Widgets" name="Widgets" remote="koush" revision="master" />
