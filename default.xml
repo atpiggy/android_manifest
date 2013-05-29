@@ -7,6 +7,8 @@
            fetch="git://github.com/rascarlo/" /> 
   <remote name="CyanogenMod"
            fetch="git://github.com/CyanogenMod/" />
+  <remote name="diclusial"
+           fetch="git://github.com/diclusial/" />
   <remote name="koush"
            fetch="git://github.com/koush/" />  
   <default revision="refs/tags/android-4.2.2_r1.2"
